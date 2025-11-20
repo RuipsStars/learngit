@@ -7,6 +7,6 @@ int main()
 	cin>>a;
 	string b(a,0,4);
 	string c(a,5,2);
-	cout<<c;
+	cout<<b;
 	return 0;
 }
