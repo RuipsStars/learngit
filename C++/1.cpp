@@ -9,5 +9,7 @@ int main()
 	string c(a,5,2);
 	cout<<e;
 	cout<<666;
+	cout<<e<<"aaaaa";
+
 	return 0;
 }
