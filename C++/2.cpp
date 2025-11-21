@@ -2,7 +2,7 @@
 #include <string>
 class Date {
 private:
-    int year, month, day;
+    int year, month, day,hours ;
 public:
     Date(int y, int m, int d) : year(y), month(m), day(d) {} 
     int getYear() const { return year; }

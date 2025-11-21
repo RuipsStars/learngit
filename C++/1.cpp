@@ -3,10 +3,10 @@
 using namespace std;
 int main()
 {
-	string a;
+	string a,e;
 	cin>>a;
 	string b(a,0,4);
 	string c(a,5,2);
-	cout<<b;
+	cout<<e;
 	return 0;
 }
