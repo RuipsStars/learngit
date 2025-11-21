@@ -3,6 +3,8 @@
 using namespace std;
 int main()
 {
+
+	//confict test 11111111
 	int a,b,c,d;
 	int d=0;
 	scanf("%d%d%d",&a,&b,&c,&d);
